@@ -12,16 +12,10 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "paths": {
-      "*": [
-        "node_modules/*",
-        "src/types/*"
-      ]
+      "*": ["node_modules/*", "src/types/*"]
     },
-    "lib": [
-      "es2015", "es5", "es6", "dom"
-    ]
+    "lib": ["es2015", "es5", "es6", "dom"],
+    "strict": false
   },
-  "include": [
-    "src/**/*"
-  ]
+  "include": ["src/**/*"]
 }
