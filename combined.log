@@ -1,0 +1,45 @@
+{"message":"Database connection failed with error Error: getaddrinfo ENOTFOUND 127.0.0.1:3306","level":"info","timestamp":"2020-12-04T08:16:43.955Z"}
+{"message":"Database connection failed with error Error: getaddrinfo ENOTFOUND localhost:3306","level":"info","timestamp":"2020-12-04T08:17:21.572Z"}
+{"message":"Database connection failed with error Error: getaddrinfo ENOTFOUND 192.168.64.1:3306","level":"info","timestamp":"2020-12-04T08:18:30.799Z"}
+{"message":"Database connection failed with error Error: getaddrinfo ENOTFOUND 192.168.64.1:3306","level":"info","timestamp":"2020-12-04T08:30:09.224Z"}
+{"message":"Database connection failed with error Error: getaddrinfo ENOTFOUND localhost:3306","level":"info","timestamp":"2020-12-04T08:30:50.863Z"}
+{"message":"Database connection failed with error Error: getaddrinfo ENOTFOUND localhost:3306","level":"info","timestamp":"2020-12-04T08:37:13.739Z"}
+{"message":"Database connection failed with error Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"info","timestamp":"2020-12-04T08:37:56.526Z"}
+{"message":"Database connection failed with error Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"info","timestamp":"2020-12-04T08:41:31.151Z"}
+{"message":"Database connection failed with error Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"info","timestamp":"2020-12-04T08:41:52.086Z"}
+{"message":"Database connection failed with error Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"info","timestamp":"2020-12-04T08:50:24.102Z"}
+{"message":"Database connection failed with error Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"info","timestamp":"2020-12-04T08:50:57.522Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T08:51:25.988Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T08:51:25.988Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T08:59:27.340Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T08:59:27.340Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T08:59:31.047Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T08:59:31.047Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T08:59:36.421Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T08:59:36.421Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T08:59:50.949Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T08:59:50.949Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T09:02:01.791Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:02:01.791Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T09:02:42.359Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:02:42.359Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T09:02:51.737Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:02:51.737Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T09:17:28.309Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:17:28.309Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T09:18:49.714Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:18:49.714Z"}
+{"message":"database connection created","level":"info","timestamp":"2020-12-04T09:19:34.308Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:19:34.308Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:20:01.621Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:20:31.410Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:21:04.095Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:21:08.280Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:22:26.391Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:22:50.119Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:28:51.412Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:29:04.917Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:29:11.429Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:29:33.745Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:30:25.062Z"}
+{"message":"Server running at 5000","level":"info","timestamp":"2020-12-04T09:32:08.952Z"}
